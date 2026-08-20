@@ -1,4 +1,8 @@
-# Полученные результаты
+# Полученные результаты 
+
+Ник: voia00
+<img width="1272" height="82" alt="image" src="https://github.com/user-attachments/assets/5cec9349-ccb6-4024-8eeb-363178c3d284" />
+
 
 ## Хронология экспериментов
 
