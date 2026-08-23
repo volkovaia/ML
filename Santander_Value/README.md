@@ -11,7 +11,7 @@
 | **Stage 5** | Эксперименты: KS-test (отбор признаков) и Stacking v1 | 1.41 – 1.51 (откат) |
 | **Stage 6** | Расширенные агрегаты (Median NZ) и RandomForest | 1.361 |
 | **Magic Leak** | Восстановление временных цепочек (Data Leakage) | **Прорыв** |
-| **Final** | Pseudo-labeling + TruncatedSVD + Оптимизированный Ансамбль | **~1.34 – 1.35** |
+| **Final** | SVD + Triple Ensemble + Rank Blending + Leak Fix | **1.366 - 1.413** |
 
 ---
 
